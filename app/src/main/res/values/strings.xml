@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="my_name">Ng Jin Han</string>
+    <string name="pfpfPic">Ng Jin Han</string>
+    <string name="profile_desc">
+        Education:\n
+        \n\tSK Cator Avenue, Ipoh
+        \n\tSK Taman Desa, Kuala Lumpur
+        \n\tSMK Taman Desa, Kuala Lumpur
+        \n\tTunku Abdul Rahman University College, Setapak
+
+
+    </string>
+</resources>
